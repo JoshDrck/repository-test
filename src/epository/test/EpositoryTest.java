@@ -16,7 +16,7 @@ public class EpositoryTest {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Tutorial de GitHub, rama test");
+        System.out.println("Tutorial de GitHub, rama test 2");
     }
     
 }
